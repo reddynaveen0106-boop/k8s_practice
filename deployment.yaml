@@ -1,0 +1,10 @@
+apiVersion: apps/v1
+kind: Pod
+metadata: 
+  name: my-appp-deployment
+  lables:
+    app: my-app
+    tier: front-end
+
+spec:
+  
