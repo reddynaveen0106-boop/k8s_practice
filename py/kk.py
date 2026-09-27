@@ -1,0 +1,5 @@
+print ("HI")
+name = input ("ENTER YOUR NAME:")
+age = int(input ("ENTER YOUR AGE:"))
+print ("hello!" , name)
+print ("your age is:" , age)
